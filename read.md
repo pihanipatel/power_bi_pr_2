@@ -237,3 +237,7 @@ With its two dedicated report pages, clear KPI cards, interactive filters, and v
 **Project Name:** Myntra Festive Orders Analysis Dashboard  
 **Report File:** `pr_2.pbix`  
 **Documentation File:** `README.md`
+
+## Project Video
+
+[Watch the dashboard video](https://drive.google.com/file/d/1uuari0y5nPNCKwztgzANFeEG6RWyHGX8/view?usp=sharing)
